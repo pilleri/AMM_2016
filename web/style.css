@@ -65,3 +65,20 @@ and open the template in the editor.
              color:black ;
              
          }     
+         
+         
+         #log{
+             
+             color:#462724;
+             font-weight:bold;
+             font-family:"Serif",sans-serif;
+             padding-top:3px;
+             padding-bottom:20px;
+             padding-right:20px;
+             padding-left:20px;
+             border:2px;
+             border-color:gold ;
+             margin:3px; 
+}
+         
+         
