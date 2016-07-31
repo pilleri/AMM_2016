@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-lug-2016, 17.47.33
+    Author     : Nicola
+*/
+
+     body {
+       background-color: #e7edf5;
+       
+     }
+     
+     
+     h1,h2,h3 {
+                color: crimson;
+                font-family: "Times New Roman", Georgia, Serif;
+     }     
+     
+     
+     href {
+         color: black;
+         text-decoration: underline;
+     }
+     
+     input {
+                background: white;
+                color: red;
+                width: 150px;
+     }
+     
+     table{
+         background-color: wheat;
+         border: 2px solid black;
+         border-collapse: separate;
+         border-spacing: 5px;
+         empty-cells: initial;
+         
+     }
+     
+     tr {
+         color:black;
+     }
+     
+     #dispari{
+    background-color: burlywood;
+    color:black;    
+            }
+
+    #pari{
+    background-color: chartreuse;
+    color:black;
+         }
+         
+         
+         #pswd{
+             color: black ;
+         }   
+         
+         #utente{
+             color:black ;
+             
+         }
+         
